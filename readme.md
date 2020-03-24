@@ -19,7 +19,9 @@ Here are the signals:-
 5) Buzzer just beeps continously when object is under 25cm
 
 PROJECT BY RISHI MAHAJAN
+
 INSTAGRAM - @BLOODSHED_DEVELOPER
+
 Other Contributers to the project
 
 Prasad Maniyani & Vaarad Gupte
