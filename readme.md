@@ -1,6 +1,8 @@
 Circuit diagram has been provided in this project
+
 Code has been provided in this project
-*****************ABOUT THE PROJECT***********************
+
+# ABOUT THE PROJECT
 This is an 'Ultrasonic Glasses' made for blind people. These glasses can
 detect object from a range of 1.5m and specific beeps also occur
 depending upon the range of the object.
