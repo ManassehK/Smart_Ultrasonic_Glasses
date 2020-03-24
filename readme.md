@@ -20,3 +20,6 @@ Here are the signals:-
 
 PROJECT BY RISHI MAHAJAN
 INSTAGRAM - @BLOODSHED_DEVELOPER
+Other Contributers to the project
+
+Prasad Maniyani & Vaarad Gupte
